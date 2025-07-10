@@ -1,7 +1,7 @@
 <p align="center">Hi, am Axel</p>
-- 💼 Network Security Engineer<br>
-- 👇 Here are some projects I worked on<br>
-- 📫 How to reach me:<br>
+• 💼 Network Security Engineer<br><br>
+• 👇 Here are some projects I worked on<br><br>
+• 📫 How to reach me:<br>
 <p align="center">![LinkedIn](https://www.linkedin.com/in/axeldelas)</p>
 
 <!--
