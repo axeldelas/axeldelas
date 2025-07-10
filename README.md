@@ -1,8 +1,8 @@
 <p align="center">Hi, am Axel</p>
-- 💼 Network Security Engineer
-- 👇 Here are some projects I worked on
-- 📫 How to reach me:
-<p style="text-align: center;">![LinkedIn](https://www.linkedin.com/in/axeldelas)</p>
+- 💼 Network Security Engineer<br>
+- 👇 Here are some projects I worked on<br>
+- 📫 How to reach me:<br>
+<p align="center">![LinkedIn](https://www.linkedin.com/in/axeldelas)</p>
 
 <!--
 **axeldelas/axeldelas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
