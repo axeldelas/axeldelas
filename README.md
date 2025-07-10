@@ -1,4 +1,4 @@
-<p style="text-align: center;">Hi, am Axel</p>
+<p align="center">Hi, am Axel</p>
 - 💼 Network Security Engineer
 - 👇 Here are some projects I worked on
 - 📫 How to reach me:
