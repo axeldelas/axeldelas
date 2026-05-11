@@ -1,5 +1,5 @@
 <p align="center">Hi, am Axel</p>
-• 💼 Network Security Engineer<br><br>
+• 💼 Network Security Specialist<br><br>
 • 👇 Here are some projects I worked on<br><br>
 • 📫 How to reach me:<br>
 <p align="center"><a href="https://www.linkedin.com/in/axeldelas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
